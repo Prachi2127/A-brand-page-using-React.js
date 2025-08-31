@@ -13,7 +13,7 @@ This project is built with **React + Vite**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/brand-page.git
+   git clone https://github.com/Prachi2127/brand-page.git
    cd brand-page
 2. Install dependencies:
    npm install
